@@ -2,3 +2,4 @@
 *.tfrec
 *.zip
 *.keras
+*.h5
