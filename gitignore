@@ -6,3 +6,5 @@
 *.png
 cyclegan_checkpoints*
 *.jpg
+*.pb
+*.tgz
