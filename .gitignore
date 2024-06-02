@@ -8,3 +8,4 @@ cyclegan_checkpoints*
 *.jpg
 *.pb
 *.tgz
+*kaggle
