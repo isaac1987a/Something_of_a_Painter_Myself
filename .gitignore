@@ -5,7 +5,6 @@
 *.h5
 *.png
 cyclegan_checkpoints*
-*.jpg
+*.jpeg
 *.pb
 *.tgz
-*kaggle
