@@ -1,0 +1,5 @@
+gen_filters,gen_num_downsampling_blocks,gen_num_residual_blocks,gen_num_upsample_blocks,disc_filters,disc_num_downsampling,MIFID_public,dist_public,mult_public
+64,2,9,2,64,3,245.50542498888188,1,245.50542498887944
+64,2,9,2,64,3,189.10961013159184,1,189.10961013159
+64,2,9,2,64,3,162.17892917732314,1,162.17892917732152
+64,2,9,2,64,3,144.99944139365334,1,144.9994413936519
