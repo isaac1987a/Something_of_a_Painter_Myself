@@ -1,9 +1,0 @@
-gen_filters,gen_num_downsampling_blocks,gen_num_residual_blocks,gen_num_upsample_blocks,disc_filters,disc_num_downsampling,MIFID_public,dist_public,mult_public,gamma_initializer,kernel_initializer
-64,2,9,2,64,3,216.89092176989004,1,216.89092176988788,,
-64,2,9,2,64,3,143.94220725109716,1,143.9422072510957,,
-64,2,9,2,64,3,149.34579210432662,1,149.3457921043251,,
-64,2,9,2,64,3,146.44014109505167,1,146.44014109505022,,
-96,3,15,3,96,5,200.50693568589872,1,200.5069356858968,<keras.src.initializers.initializers.RandomNormal object at 0x7f320d942150>,<keras.src.initializers.initializers.RandomNormal object at 0x7f320dcb9450>
-96,3,15,3,96,5,168.18461597918065,1,168.18461597917897,<keras.src.initializers.initializers.RandomNormal object at 0x7f320d942150>,<keras.src.initializers.initializers.RandomNormal object at 0x7f320dcb9450>
-96,3,15,3,96,5,155.35607480296994,1,155.35607480296838,<keras.src.initializers.initializers.RandomNormal object at 0x7f320d942150>,<keras.src.initializers.initializers.RandomNormal object at 0x7f320dcb9450>
-96,3,15,3,96,5,158.32136408007773,1,158.32136408007614,<keras.src.initializers.initializers.RandomNormal object at 0x7f320d942150>,<keras.src.initializers.initializers.RandomNormal object at 0x7f320dcb9450>
