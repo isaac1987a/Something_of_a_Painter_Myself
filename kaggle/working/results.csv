@@ -1,0 +1,13 @@
+gen_filters,gen_num_downsampling_blocks,gen_num_residual_blocks,gen_num_upsample_blocks,disc_filters,disc_num_downsampling,MIFID_public,dist_public,mult_public,epoch,gamma_initializer,kernel_initializer
+64,2,9,2,64,3,195.32497069842825,1,195.32497069842623,24.0,,
+64,2,9,2,64,3,174.67892277614885,1,174.67892277614712,49.0,,
+64,2,9,2,64,3,147.23319409227088,1,147.2331940922694,74.0,,
+64,2,9,2,64,3,148.45645189498055,1,148.45645189497907,99.0,,
+96,3,15,3,96,5,192.818309364038,1,192.818309364036,24.0,<keras.src.initializers.initializers.RandomNormal object at 0x7f56390e79d0>,<keras.src.initializers.initializers.RandomNormal object at 0x7f56391dee50>
+96,3,15,3,96,5,167.0179010021228,1,167.01790100212114,49.0,<keras.src.initializers.initializers.RandomNormal object at 0x7f56390e79d0>,<keras.src.initializers.initializers.RandomNormal object at 0x7f56391dee50>
+96,3,15,3,96,5,153.10099758459933,1,153.1009975845978,74.0,<keras.src.initializers.initializers.RandomNormal object at 0x7f56390e79d0>,<keras.src.initializers.initializers.RandomNormal object at 0x7f56391dee50>
+96,3,15,3,96,5,146.94350092628116,1,146.94350092627968,99.0,<keras.src.initializers.initializers.RandomNormal object at 0x7f56390e79d0>,<keras.src.initializers.initializers.RandomNormal object at 0x7f56391dee50>
+32,1,5,1,32,2,203.73196543030565,1,203.7319654303036,24.0,<keras.src.initializers.initializers.RandomNormal object at 0x7f56390e79d0>,<keras.src.initializers.initializers.RandomNormal object at 0x7f56391dee50>
+32,1,5,1,32,2,199.66369317998448,1,199.6636931799825,49.0,<keras.src.initializers.initializers.RandomNormal object at 0x7f56390e79d0>,<keras.src.initializers.initializers.RandomNormal object at 0x7f56391dee50>
+32,1,5,1,32,2,177.47586736872574,1,177.47586736872398,74.0,<keras.src.initializers.initializers.RandomNormal object at 0x7f56390e79d0>,<keras.src.initializers.initializers.RandomNormal object at 0x7f56391dee50>
+32,1,5,1,32,2,162.69829542989044,1,162.69829542988882,99.0,<keras.src.initializers.initializers.RandomNormal object at 0x7f56390e79d0>,<keras.src.initializers.initializers.RandomNormal object at 0x7f56391dee50>
